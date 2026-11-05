@@ -44,6 +44,15 @@ The curriculum may use these projects as learning environments where access is a
 
 These are contextual suggestions, not repositories included here. This curriculum does not modify or assume access to them, and it does not claim that any AI integration or capability is already implemented in them. Use a permitted codebase or a small, isolated exercise when access is unavailable.
 
+## Cross-repository architecture governance
+
+This repository also hosts canonical, evidence-based decision proposals for
+related projects when their owners explicitly authorize that documentation.
+These records govern architectural discussion only; they do not implement
+capabilities in the external repositories, transfer ownership of their code,
+or imply that a proposal has been accepted. See the [architecture decision
+index](docs/architecture/adr/README.md) and [approval package](docs/architecture/approval/).
+
 ## Current status
 
 The repository contains curriculum and guidance documents. Exercises, projects, assessments, and future capabilities are proposals until someone performs them and records verifiable evidence. Do not infer completion, experience, or measured outcomes from the presence of a guide.

@@ -25,6 +25,11 @@ This index is the navigation entry point for the AI-native engineering program. 
 - [Progress tracking framework](progress.md)
 - [Contribution and documentation standards](contributing.md)
 
+## Architecture governance
+
+- [Cross-repository ADR index](architecture/adr/README.md)
+- [Decision approval package](architecture/approval/)
+
 ## How to use the documents
 
 Start with the principles and progression map, then use the competency matrix to identify strengths and gaps. Follow phase guides in prerequisite order, but tailor pacing to the baseline assessment. For each phase, create implementation evidence, verify it independently, and record its status and next action in your own progress log. Do not mark planned work as completed.
